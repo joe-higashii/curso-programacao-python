@@ -90,7 +90,7 @@ Para uma compreensão aprofundada e prática, este módulo inclui os seguintes a
 ## 🔗 Recursos Adicionais
 
 * 🌐 Para consulta rápida sobre sintaxe e mais exemplos práticos, o [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp) é um excelente recurso online.
-* oficial A documentação oficial do Python ([https://docs.python.org/pt-br/3/](https://docs.python.org/pt-br/3/)) é a fonte mais completa e detalhada para todos os aspectos da linguagem.
+* A documentação oficial do Python ([https://docs.python.org/pt-br/3/](https://docs.python.org/pt-br/3/)) é a fonte mais completa e detalhada para todos os aspectos da linguagem.
 
 ---
 
