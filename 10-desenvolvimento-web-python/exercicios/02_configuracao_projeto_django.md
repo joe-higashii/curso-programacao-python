@@ -1,0 +1,3 @@
+# 02 Configuracao Projeto Django
+
+Conteúdo para 02_configuracao_projeto_django.md...

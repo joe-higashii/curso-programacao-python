@@ -1,0 +1,3 @@
+# Glossario
+
+Conteúdo para glossario.md...
